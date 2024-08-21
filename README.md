@@ -5,5 +5,4 @@ Linh kiện:
 - Cảm biến siêu âm HC-SR04
 - LCD 1602 + Module I2C
 
-Sơ đồ kết nối chân linh kiện
  
